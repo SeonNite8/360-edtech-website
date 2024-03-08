@@ -70,7 +70,8 @@ nav ul li {
 .cta-button:hover {
     background-color: #1F8B22;
 }
-/* Add more styles for other sections as needed */
+
+/* Add styles for other sections (features, courses, testimonials) */
 /* ...
 
 /* Footer styles */
@@ -79,4 +80,4 @@ footer {
     color: #ffffff;
     text-align: center;
     padding: 1rem;
-    }
+}
